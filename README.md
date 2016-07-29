@@ -1,0 +1,1 @@
+# How-to-clear-all-activity-stack-in-Android
